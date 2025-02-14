@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alisha-portfolio/static/css/main.a2c9bac4.css",
+    "main.js": "/alisha-portfolio/static/js/main.bcc96420.js",
+    "index.html": "/alisha-portfolio/index.html",
+    "main.a2c9bac4.css.map": "/alisha-portfolio/static/css/main.a2c9bac4.css.map",
+    "main.bcc96420.js.map": "/alisha-portfolio/static/js/main.bcc96420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c9bac4.css",
+    "static/js/main.bcc96420.js"
+  ]
+}
